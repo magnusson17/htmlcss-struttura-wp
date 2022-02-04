@@ -27,6 +27,18 @@ body {
     background-color: #0086FF;
 }
 
+.section-2-div-header {
+    width: 100%;
+    height: 25%;
+    background-color: #ABCFE7;
+}
+
+.section-2-div-column {
+    width: 33%;
+    height: 70%;
+    background-color: #ABCFE7;
+}
+
 .footer-div {
     width: 100%;
     height: 100px;
